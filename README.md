@@ -70,7 +70,7 @@ const marianaviana = {
 <p align="center">
   <img
     height="170"
-    src="https://streak-stats.demolab.com?user=MarianaFViana&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=MarianaFViana&theme=transparent&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
